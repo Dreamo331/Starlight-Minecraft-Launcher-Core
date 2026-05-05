@@ -188,4 +188,5 @@ MIT License
 
 ## 开发者
 
-- [Starlight Launcher](https://github.com/your-repo) — 项目维护者
+- [Starlight Launcher](https://github.com/Dreamo331) — 项目开发
+- [Starlight Launcher] DeepSeek — 项目优化
